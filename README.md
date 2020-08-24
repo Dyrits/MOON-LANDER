@@ -1,6 +1,6 @@
 # Moon Lander
 
-![MoonLander]("https://cdn.codegym.cc/images/system/013fcdf9-e770-42fb-a8b1-c2190cf1e97e/original.jpeg)
+![Moon Lander](https://cdn.codegym.cc/images/system/013fcdf9-e770-42fb-a8b1-c2190cf1e97e/original.jpeg)
 
 ## About this project
 
