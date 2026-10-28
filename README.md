@@ -10,6 +10,9 @@ Pilot a lunar landing module and set it down gently on the Moon's surface withou
 
 From the author's notes: this project was made from scratch following the task's specific instructions, with several elements (such as the game engine) provided by the course.
 
+
+The original task description from CodeGym is preserved in [ASSIGNMENT.md](ASSIGNMENT.md).
+
 ## Built With
 
 - Java
